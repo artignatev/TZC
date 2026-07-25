@@ -9,6 +9,16 @@ and was starting to break on the latest macOS releases, so I rebuilt it in Swift
 It lives in the menu bar. Drag the ruler to compare cities, reorder them directly,
 or open the calendar for a specific date. No Electron. No Rosetta. No Dock icon.
 
+<img src="Assets/screenshot.png" width="300" alt="TZC menu-bar panel">
+
+## Main features
+
+- One draggable timeline across every city, with 15-minute precision
+- Fast city search and direct drag-to-reorder
+- Calendar mode with accurate daylight-saving changes
+- 12/24-hour time, availability indicators, and three themes
+- Native Apple-silicon menu-bar app with automatic Start at Login
+
 ## Install
 
 Download the [latest release](https://github.com/artignatev/TZC/releases/latest),
